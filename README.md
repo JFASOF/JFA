@@ -16,7 +16,7 @@ class Jfasof:
         self.location = "IST/TUR"
         self.blog = "https://jfasoftware.tk"
         self.knowledge_base = [
-            "Software Enginnering",
+            "Software Engineering",
             "Machine Learning",
             "Deep Learning",
             "Computer Vision",
